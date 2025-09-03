@@ -1,6 +1,3 @@
-# Click "Add file" → "Create new file" on GitHub
-# Name it: .gitignore
-# Add this content:
 
 # IntelliJ IDEA files
 .idea/
